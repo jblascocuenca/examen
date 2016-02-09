@@ -1,0 +1,6 @@
+
+En este Sprint nos hemos comprometido a entregar las Historias de Usuario 1,2 y 3.
+
+	-Sumar
+	-Restar
+	-ERROR Resta
