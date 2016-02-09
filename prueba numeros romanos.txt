@@ -1,0 +1,10 @@
+
+TEST  NUMEROS ROMANOS
+
+- Para comprobar esta funcionalidad se realizan diferentes pruebas, donde se tienen que cumplir:
+
+	3  = III
+	10 = X
+	50 = L
+	100 = C
+	500 = D
