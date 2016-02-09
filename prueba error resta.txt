@@ -1,0 +1,7 @@
+
+TEST ERROR RESTA DE 2 NUMEROS NATURALES
+
+- Para comprobar esta funcionalidad se realizan diferentes pruebas, donde se tienen que cumplir:
+
+	-Si aparece algun numero negativo o no natural, o  el resultado de la resta da un numero no natural 
+	aparecera un mensaje de error
