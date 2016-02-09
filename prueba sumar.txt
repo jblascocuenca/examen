@@ -1,0 +1,9 @@
+
+TEST SUMA DE 2 NUMEROS NATURALES
+
+- Para comprobar esta funcionalidad se realizan diferentes pruebas, donde se tienen que cumplir:
+
+	2 + 2 = 4
+	5 + 10 = 15
+	15 + 20 = 35
+	5 + 3 = 8
